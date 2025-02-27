@@ -1,59 +1,32 @@
-# Software License Agreement
+Software License Agreement (EN/TH)
 
-## 1. Copyright Notice
-Copyright (C) 2024 Tirawat Nantamas. All rights reserved.
+1. License Grant / การให้สิทธิ์การใช้งาน
 
-This software is the intellectual property of Tirawat Nantamas and is protected under copyright laws. Any unauthorized distribution, modification, or resale is strictly prohibited.
+This software is licensed, not sold. The purchaser is granted a non-transferable, non-exclusive, and revocable license to use the software for personal or business purposes.
+ซอฟต์แวร์นี้ให้สิทธิ์การใช้งาน ไม่ได้ขาย ผู้ซื้อได้รับสิทธิ์ที่ไม่สามารถโอนได้ ไม่ใช่สิทธิ์แต่เพียงผู้เดียว และสามารถถูกเพิกถอนได้ เพื่อใช้ในเชิงส่วนตัวหรือธุรกิจ
 
-## 2. License Grant
-By purchasing a valid license, the licensee ("User") is granted a non-exclusive, non-transferable right to use this software under the following conditions:
-- This license is for **paid users only** and is restricted to the number of devices specified in the purchase agreement.
-- The software **must not** be distributed, copied, resold, or shared with third parties.
-- Reverse engineering, decompiling, or modifying the software is strictly prohibited.
+2. Restrictions / ข้อจำกัด
+	•	Redistribution, resale, or public sharing of this software in any form is strictly prohibited.
+	•	Reverse engineering, modification, or unauthorized copying of the software is not allowed.
+	•	The software may only be used by the licensed purchaser.
+	•	ห้ามแจกจ่าย ขายต่อ หรือเผยแพร่ซอฟต์แวร์นี้ในทุกรูปแบบโดยเด็ดขาด
+	•	ห้ามทำวิศวกรรมย้อนกลับ แก้ไข หรือคัดลอกซอฟต์แวร์โดยไม่ได้รับอนุญาต
+	•	ซอฟต์แวร์นี้ใช้ได้เฉพาะผู้ที่ได้รับอนุญาตตามใบอนุญาตเท่านั้น
 
-## 3. Restrictions
-The User agrees **NOT** to:
-- Share, lease, sublicense, or redistribute the software.
-- Modify, adapt, or create derivative works based on the software.
-- Use the software for illegal activities or unauthorized purposes.
-- Circumvent or attempt to bypass any licensing mechanisms.
+3. Payment and Licensing Fee / ค่าธรรมเนียมและการชำระเงิน
+	•	This software is available for use only upon payment of the required license fee.
+	•	Unauthorized access or use of the software without proper licensing may result in legal action.
+	•	ซอฟต์แวร์นี้สามารถใช้งานได้เฉพาะผู้ที่ชำระค่าธรรมเนียมที่กำหนด
+	•	การเข้าถึงหรือใช้งานซอฟต์แวร์โดยไม่ได้รับอนุญาต อาจนำไปสู่การดำเนินคดีทางกฎหมาย
 
-## 4. Termination
-If the User violates any terms of this agreement, the license will be **immediately revoked**, and the User must stop using the software and delete all copies.
+4. Copyright and Ownership / ลิขสิทธิ์และความเป็นเจ้าของ
+	•	The software and all associated intellectual property rights remain the property of the developer.
+	•	No ownership rights are transferred through this license.
+	•	ซอฟต์แวร์และทรัพย์สินทางปัญญาทั้งหมดเป็นกรรมสิทธิ์ของผู้พัฒนา
+	•	ไม่มีการโอนกรรมสิทธิ์ใดๆ ผ่านใบอนุญาตนี้
 
-## 5. No Warranty and Liability
-This software is provided **"as is"** without warranties of any kind. The developer is **not liable** for any damages, data loss, or other consequences resulting from software use.
+5. Termination / การยกเลิกใบอนุญาต
 
-## 6. Contact Information
-For license inquiries, contact: **tirawatnantamas@gmail.com**
+Violation of any terms in this license agreement will result in immediate termination of the license.
 
----
-
-# End User License Agreement (EULA)
-
-This End User License Agreement ("Agreement") is a legal agreement between the User and Tirawat Nantamas regarding the use of this software.
-
-## 1. Acceptance
-By downloading, installing, or using this software, the User agrees to be bound by the terms of this Agreement.
-
-## 2. License Scope
-- The software is licensed **on a per-user basis** and requires a valid license key.
-- This is a **single-use license** unless explicitly stated otherwise in the purchase agreement.
-
-## 3. Restrictions
-The User may **not**:
-- Copy, distribute, or resell the software.
-- Modify or reverse-engineer any part of the software.
-- Use the software beyond the agreed license scope.
-
-## 4. Refund Policy
-No refunds will be issued once the license key is delivered.
-
-## 5. Termination
-Violation of this Agreement results in immediate termination of the license.
-
-## 6. Governing Law
-This Agreement is governed by the laws of Thailand.
-
-By using this software, you acknowledge that you have read, understood, and agreed to this EULA.
-
+หากมีการละเมิดเงื่อนไขใดๆ ในข้อตกลงนี้ ใบอนุญาตจะถูกเพิกถอนทันที
